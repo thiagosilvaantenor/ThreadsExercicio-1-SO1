@@ -13,6 +13,9 @@ Este é o exercício 1, da lista de exercícios de Threads, da materia de Sistem
 
 Caso queira ver os outros exercícios:
 - [Exercício 2](https://github.com/thiagosilvaantenor/ThreadsExercicio-2-SO1)
+- [Exercício 3](https://github.com/thiagosilvaantenor/ThreadsExercicio-3-SO1)
+- [Exercício 4](https://github.com/thiagosilvaantenor/ThreadsExercicio-4-SO1)
+- [Exercício 5](https://github.com/thiagosilvaantenor/ThreadsExercicio-5-SO1)
 
 ## Índice
 =================
